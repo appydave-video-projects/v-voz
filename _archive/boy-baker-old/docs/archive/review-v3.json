@@ -1,0 +1,429 @@
+{
+  "title": "BOY & BAKER - V3a",
+  "scenes": [
+    {
+      "id": "17539199643042n80ubr1k",
+      "timestamp": "00:00–00:05",
+      "label": "TITLE SCENE, The Boy & the Baker",
+      "notes": "\nWhat we do wanna do is a text overlay for \"The Boy and the Baker\" as a title and will do this in Canva and will probably get three different variations so for approval\n\nWe will have both the title & the author:\n\n\"The Boy and the Baker\"\n\"by vOz\"\n\nthe text apears as two parts matching the rythym of the speaker",
+      "tag": "Must Change",
+      "reviewed": true
+    },
+    {
+      "id": "1753919964304pu1v4vkzo",
+      "timestamp": "00:06–00:11",
+      "label": "Quote (Hope is a Meager Substitute for Success)",
+      "notes": "AA\n\nChange from video snippet to fixed image of the bakery (tbd)\nTitle: \"Hope is a Meager Substitute for Success\"",
+      "tag": "Must Change",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304h8y48ccvy",
+      "timestamp": "00:12–00:18",
+      "label": "Elder Baker walking to his shop sees a boy being beaten",
+      "notes": "IF POSSIBLE: the baker looks like a giant, can his proportion be slightly smaller?\n\nThe way he is walking looks like he is walking on air rather than the pavement, it does not mesh into the scene cleanly, this is a known issue with the video tech and over time we need to improve.\n\nScene Observations:\nThe voice and the scene are in sync: Good\nThe feet don't have shadow, so it looks like he is floating.\nThe baker has perspective, but as he gets bigger, he does start to look like a giant compared to the building on the left.\n\nAnother visual discrepency may be because the scene is misty morning but the characters are hard focussed.\n\nVideo Observations:\n\nCharacter vs Background, both a Studio Ghibli French 1930 style, but the backgrounds are soft pencil and kind of blured while the characters are hard pencil and more cartoonish, and when creating video is important that we alignment early in the processs or we use an AI tool that solves that at generation.",
+      "tag": "Observation",
+      "reviewed": true
+    },
+    {
+      "id": "1753919964304vbmo3qem7",
+      "timestamp": "00:19–00:23",
+      "label": "He shouts, and the gang of kids run off",
+      "notes": "This scene is good to go\n\nObservation: \n\nThe perspective in this scene is the best in the video and thus the gold standard when thinking about proportion\n\nThe layout (such as the fence) is different from the scene before.",
+      "tag": "Observation",
+      "reviewed": true
+    },
+    {
+      "id": "1753919964304gk2pv4553",
+      "timestamp": "00:24–00:26",
+      "label": "Goes to the boy",
+      "notes": "Observation: Its a different building\n\nThe baker was a little big.\n\nThe bird is way to big on the roof (Can it be reduced a litte)",
+      "tag": "Observation",
+      "reviewed": true
+    },
+    {
+      "id": "1753919964304wymddangw",
+      "timestamp": "00:27–00:30",
+      "label": "The Compassionate Baker places his arm around the Boy and takes him to his shop",
+      "notes": "\nObservation:\n\nGood, except the hand gestures could improve and mouth is talking to much",
+      "tag": "Observation",
+      "reviewed": true
+    },
+    {
+      "id": "17539199643046fiud3e5y",
+      "timestamp": "00:31–00:35",
+      "label": "Where are your parents",
+      "notes": "Observation:\n\nThis is good, the lip sync is off",
+      "tag": "Observation",
+      "reviewed": true
+    },
+    {
+      "id": "1753919964304f639dc4bk",
+      "timestamp": "00:36–00:41",
+      "label": "I have no parents, I’m all alone",
+      "notes": "\nObservation:\n\nThe look of concern is awesome by the baker\n\nIS this fixable:\nbut the talking both before and after the look is not realistic\n\nAt the 40 to 41 second mark, it would be better if the baker stood then listening rather then being so in your face trying to commuicate with the boy, he looks like he is leaning in and conversing when he should just be listening.",
+      "tag": "Observation",
+      "reviewed": true
+    },
+    {
+      "id": "1753919964304abiv2u8nl",
+      "timestamp": "00:42–00:47",
+      "label": "The Lost Look",
+      "notes": "",
+      "tag": "",
+      "reviewed": true
+    },
+    {
+      "id": "1753919964304d11gpibwu",
+      "timestamp": "00:48–00:54",
+      "label": "Abandoned Children",
+      "notes": "",
+      "tag": "",
+      "reviewed": true
+    },
+    {
+      "id": "1753919964304gx50ojvcb",
+      "timestamp": "00:55–01:00",
+      "label": "No Family, No Future, No Hope",
+      "notes": "\nTransition:\n\nThe boy appears abruptly, can we can a slight transition (fade out/in) on the boy",
+      "tag": "Observation",
+      "reviewed": true
+    },
+    {
+      "id": "175391996430444kstps26",
+      "timestamp": "01:01–01:05",
+      "label": "Would you like to make Bread",
+      "notes": "",
+      "tag": "",
+      "reviewed": true
+    },
+    {
+      "id": "17539199643042v407j58o",
+      "timestamp": "01:06–01:08",
+      "label": "The boy Nods yes",
+      "notes": "",
+      "tag": "",
+      "reviewed": true
+    },
+    {
+      "id": "1753919964304h3rekajp4",
+      "timestamp": "01:09–01:11",
+      "label": "Into the Kitchen",
+      "notes": "",
+      "tag": "",
+      "reviewed": true
+    },
+    {
+      "id": "17539199643049dm4qkils",
+      "timestamp": "01:12–01:19",
+      "label": "The boy watches as the baker works",
+      "notes": "",
+      "tag": "",
+      "reviewed": true
+    },
+    {
+      "id": "1753919964304zouluv60y",
+      "timestamp": "01:20–01:23",
+      "label": "Sprinkles Flour on Wooden Table",
+      "notes": "\nObservation:\n\nI think we don't want to change the scene the same seems wrong. The we've got issues with the graphics of the sprinkling of the flower anyway with a hand going upwards so what were you really? Should do is go back to the previous scene add various items to the table like we have in this scene and then have him sprinkling flour in a more realistic fashion.",
+      "tag": "Must Change",
+      "reviewed": true
+    },
+    {
+      "id": "175391996430427iyzgja6",
+      "timestamp": "01:24–01:25",
+      "label": "Kneading Dough",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304iobcmv3nk",
+      "timestamp": "01:26–01:30",
+      "label": "Place in Pan-Cover with Towel",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304lcacg73yr",
+      "timestamp": "01:31–01:34",
+      "label": "Curious Boy asks Why",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "17539199643041zmwxoyju",
+      "timestamp": "01:35–01:37",
+      "label": "The Baker Replies",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "17539199643044vwh9mume",
+      "timestamp": "01:38–01:44",
+      "label": "Dough Rises",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304sn1c2rk12",
+      "timestamp": "01:45–01:50",
+      "label": "Places Uncooked-Bread in Oven",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304g5l5ufj0j",
+      "timestamp": "01:51–02:00",
+      "label": "Bread Bakes and is Transformed",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304m4e04rs6z",
+      "timestamp": "02:01–02:09",
+      "label": "The Miracle of Life",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "17539199643049gnpvw019",
+      "timestamp": "02:10–02:15",
+      "label": "Baker Smiles gives the Boy a Gift of the Bread",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "17539199643048i69bion0",
+      "timestamp": "02:16–02:21",
+      "label": "The Boy Thanks the Baker and Exits the Shop",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304njibea3ww",
+      "timestamp": "02:22–02:29",
+      "label": "Sitting in the Alley eating Bread",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304i0nwsil56",
+      "timestamp": "02:30–02:35",
+      "label": "Next Morning Baker Leaves Shop",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304mpj9iotg7",
+      "timestamp": "02:36–02:44",
+      "label": "Walking down the Street, sees a Crowd and Boy being Arrested",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304lsuadc40h",
+      "timestamp": "02:45–02:47",
+      "label": "What has the Boy Done",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304fwkm05qky",
+      "timestamp": "02:48–02:49",
+      "label": "He Killed a Man",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304il3k4kgwp",
+      "timestamp": "02:50–02:56",
+      "label": "Baker Rushes to Police Station",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304xb8drtnhz",
+      "timestamp": "02:57–03:02",
+      "label": "Askes to See the Boy, Jailer gives Permission",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304d3udy7bga",
+      "timestamp": "03:03–03:08",
+      "label": "In cell Baker askes Boy, “What Happened”",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304rzarovdi7",
+      "timestamp": "03:09–03:17",
+      "label": "Boy tells Baker while Eating the Bread the other Boys saw Him",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "17539199643044qgkpnd25",
+      "timestamp": "03:18–03:23",
+      "label": "Fight over the Bread",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304k3khy058h",
+      "timestamp": "03:24–03:26",
+      "label": "Gang Runs Away",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "17539199643043mdfwvct2",
+      "timestamp": "03:27–03:30",
+      "label": "Boy alone when Policeman Arrives",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304v9xl2cpnq",
+      "timestamp": "03:31–03:36",
+      "label": "Boy in Cell Alone",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304pdhvrvx5d",
+      "timestamp": "03:37–03:40",
+      "label": "Judge Sentences Boy",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304td64a2aou",
+      "timestamp": "03:40–03:42",
+      "label": "Boy Cries in Court",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304inov3mpiw",
+      "timestamp": "03:43–03:47",
+      "label": "On the last day, the Boy Receives a Visitor",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "17539199643042phykm1kk",
+      "timestamp": "03:48–03:52",
+      "label": "The Kind Baker brings the boy bread",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304ears1n2s6",
+      "timestamp": "03:53–04:04",
+      "label": "The Boy takes the Bread, and the Baker Speaks to the Boy",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304mf1s2i3g9",
+      "timestamp": "04:01–04:05",
+      "label": "Do you Remember the Night, I told you about the Miracle of the Bread",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304awjxr0cs0",
+      "timestamp": "04:06–04:08",
+      "label": "Yes, the Boy Replies",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304ya5ctdtf9",
+      "timestamp": "04:09–04:12",
+      "label": "The 2nd Miracle of the Bread",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304apadry50a",
+      "timestamp": "04:13–04:18",
+      "label": "The Rising of the Bread in the Pan and in the Oven",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304n6hw11k17",
+      "timestamp": "04:19–04:21",
+      "label": "The Boy nods, yes",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304g8vp22q96",
+      "timestamp": "04:22–04:26",
+      "label": "Be Strong, you too shall rise like the bread",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304ckj8zs6pb",
+      "timestamp": "04:27–04:32",
+      "label": "It’s been Foretold, Bread is the Body of Christ",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304kdcfhw8gg",
+      "timestamp": "04:33–04:37",
+      "label": "Which all gain nourishment and life",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    },
+    {
+      "id": "1753919964304zg0kfhubs",
+      "timestamp": "04:38–04:41",
+      "label": "Amen",
+      "notes": "",
+      "tag": "",
+      "reviewed": false
+    }
+  ]
+}
