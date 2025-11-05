@@ -1,17 +1,276 @@
 {
+  "schemaVersion": "2.0.0",
   "metadata": {
     "title": "The Point",
     "projectName": "the-point",
     "totalBeats": 0,
+    "generatedAt": "2025-11-04T00:00:00.000Z",
+    "generationTechnique": "geometric-animation",
     "totalVisualConcepts": 0,
     "totalImageVariations": 0,
     "totalAnimations": 0,
-    "generatedAt": "2025-10-08T13:45:38.908Z"
+    "totalWords": 0,
+    "totalDuration": 0,
+    "whisperModel": "medium",
+    "dataSize": 0,
+    "lastModified": "2025-11-04T00:00:00.000Z",
+    "projectPath": "/Users/davidcruwys/dev/video-projects/v-voz/the-point",
+    "hasImages": false,
+    "errors": 0,
+    "migrationNotes": "V2 schema foundation created. Awaiting Whisper transcript to determine actual beat count and populate timing data. Transcript has 14 conceptual chapters but actual beat segmentation will be driven by audio timing."
   },
-  "globalStyleguide": {
-    "reference": "data/styleguide.md",
-    "summary": "Add your global visual style guide here"
+  "cast": [
+    {
+      "key": "point",
+      "name": "The Point",
+      "role": "Protagonist - consciousness emerging from void",
+      "emotionalCore": "Curious, persistent, confused, transformative",
+      "firstAppearance": 1,
+      "visualProfile": {
+        "form": "Simple geometric point - luminous singularity",
+        "colorSignature": ["luminous white", "soft glow", "pure light"],
+        "movement": "Glides smoothly, pauses contemplatively, jumps frantically when distressed",
+        "scale": "Small against infinite void, grows when merged",
+        "symbolism": "Individual consciousness, particle, singularity, the observer",
+        "restrictions": ["NEVER humanized", "NEVER given facial features", "Remains pure geometric form"]
+      },
+      "characterArc": "Isolated point → searching traveler → confused explorer → frantic jumper → merged entity → transformed line → completed circle → dissolved back to nothing"
+    },
+    {
+      "key": "line",
+      "name": "The Line",
+      "role": "Trace of movement, dimension of time",
+      "emotionalCore": "Neutral, persistent, inevitable",
+      "firstAppearance": 3,
+      "visualProfile": {
+        "form": "Continuous geometric line - trace of point's journey",
+        "colorSignature": ["faint glow trail", "subtle luminescence", "persistent trace"],
+        "movement": "Appears behind point, follows, accumulates, eventually circles back",
+        "symbolism": "Time, history, path, connection, wave function",
+        "restrictions": ["NEVER autonomous", "Always emerges from point's movement"]
+      },
+      "characterArc": "Discovered as mystery → following presence → obstacle → pathway → circle → unified whole"
+    },
+    {
+      "key": "other-points",
+      "name": "Other Points",
+      "role": "Illusory multiplicity, aspects of self",
+      "emotionalCore": "Ephemeral, deceptive, transformative",
+      "firstAppearance": 7,
+      "visualProfile": {
+        "form": "Multiple points identical to protagonist",
+        "colorSignature": ["same luminous quality as main point"],
+        "movement": "Static until approached, vanish upon contact",
+        "symbolism": "Multiplicity as illusion, connections that transform, vertices that merge",
+        "restrictions": ["Disappear on contact", "Never speak or show agency"]
+      },
+      "characterArc": "Appear as hope → disappear as lesson → revealed as trace points creating the line/circle"
+    },
+    {
+      "key": "void",
+      "name": "The Void",
+      "role": "Stage and container, quantum vacuum",
+      "emotionalCore": "Empty, infinite, potential-filled",
+      "firstAppearance": 1,
+      "visualProfile": {
+        "form": "Infinite black/void space",
+        "colorSignature": ["absolute black", "subtle depth gradations", "quantum foam texture (optional)"],
+        "atmosphere": "Timeless, silent, infinite dimensionality",
+        "symbolism": "Nothingness, zero, quantum vacuum, potential energy",
+        "variations": ["Pure 2D plane", "3D volumetric space", "Microscopic/cosmic scale", "Abstract mathematical space"]
+      },
+      "characterArc": "Constant presence - the nothing from which everything emerges and returns"
+    }
+  ],
+  "styleGuide": {
+    "corePhilosophy": "Minimal geometric abstraction with philosophical depth. Pure forms in void space exploring cycles of existence, transformation, and unity. No literal representation - only point, line, circle, and void.",
+    "era": "Timeless",
+    "setting": "Infinite void space - quantum vacuum of pure potential",
+    "culturalContext": "Philosophical meditation on existence inspired by quantum physics (particle-wave duality), cosmology (singularities, event horizons), and existential questions of meaning and identity",
+    "visualInfluences": [
+      "Logo programming language geometric animations",
+      "Saul Bass title sequences (minimal geometric motion)",
+      "Abstract expressionism (Kandinsky geometric period)",
+      "Quantum field visualizations",
+      "Oskar Fischinger abstract films",
+      "Norman McLaren experimental animation"
+    ],
+    "colorPalette": {
+      "primary": [
+        "absolute black (void)",
+        "luminous white (point)",
+        "soft glow gradient (point aura)"
+      ],
+      "accents": [
+        "faint trail luminescence (line)",
+        "subtle depth gradations (optional void texture)"
+      ],
+      "optional": [
+        "cosmic particle effects",
+        "quantum foam texture",
+        "dimensional grid overlay"
+      ]
+    },
+    "textureAndLinework": {
+      "texture": "Smooth gradients OR pure flat shapes - depends on production version",
+      "lines": "Clean geometric precision, mathematically perfect OR soft organic glow",
+      "depth": "Suggested through scale and opacity, not literal 3D rendering",
+      "aesthetic": "Minimalist, contemplative, never busy or cluttered",
+      "consistency": "Pure geometric vocabulary - point, line, circle only"
+    },
+    "lighting": {
+      "void": "Absolute darkness OR subtle depth gradation",
+      "point": "Self-luminous - internal glow radiating outward",
+      "line": "Faint persistent trail, accumulates visibility over time",
+      "transformation": "Brightness intensifies during merging/transformation moments",
+      "atmosphere": "No external light source - all light is intrinsic to geometric entities"
+    },
+    "sceneAnchors": [
+      {
+        "key": "infinite-void",
+        "name": "Infinite Void",
+        "description": "Pure black emptiness, no reference points, absolute nothingness",
+        "location": "Primary environment for all beats",
+        "variations": ["2D plane view", "3D volumetric space", "Microscopic scale", "Cosmic scale"]
+      },
+      {
+        "key": "point-emergence",
+        "name": "Point of Emergence",
+        "description": "Center of void where point first appears - ground zero",
+        "location": "Starting position, return position for cycle completion"
+      },
+      {
+        "key": "line-discovery-zone",
+        "name": "Line Discovery Zone",
+        "description": "Area where point first encounters its own trace",
+        "location": "Forward from origin, where journey becomes visible"
+      },
+      {
+        "key": "separation-space",
+        "name": "Separation Space",
+        "description": "Area where point jumps away from line, creating vertical dimension",
+        "location": "Above/below the line's plane"
+      },
+      {
+        "key": "multiplicity-field",
+        "name": "Multiplicity Field",
+        "description": "Region where other points appear - vertices of the emerging circle",
+        "location": "Scattered positions that will form circle's circumference"
+      },
+      {
+        "key": "circle-completion",
+        "name": "Circle Completion",
+        "description": "Final unified form - all points merged, line closed into circle",
+        "location": "Returns to origin, completing geometric transformation"
+      }
+    ],
+    "symbolicElements": [
+      {
+        "element": "zero",
+        "meaning": "Nothingness that contains everything, quantum vacuum, void pregnant with potential",
+        "appearancesInBeats": [1],
+        "notes": "Zero IS a point - the paradox of nothing becoming something"
+      },
+      {
+        "element": "point",
+        "meaning": "Particle, consciousness, singularity, individual identity, localized existence",
+        "appearancesInBeats": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "notes": "Central character throughout - transforms but never truly disappears"
+      },
+      {
+        "element": "line",
+        "meaning": "Time, wave function, trace of journey, connection, dimension of movement",
+        "appearancesInBeats": [3, 4, 5, 6, 10, 11],
+        "notes": "Discovered as mystery, becomes obstacle, finally becomes pathway to unity"
+      },
+      {
+        "element": "circle",
+        "meaning": "Unity, wholeness, eternal return, event horizon, completion, cycle",
+        "appearancesInBeats": [11, 12, 13],
+        "notes": "Final form - all points merged, line closed, separation dissolved"
+      },
+      {
+        "element": "multiplicity-to-unity",
+        "meaning": "Illusion of separation, journey from many back to one",
+        "appearancesInBeats": [7, 8, 9, 10],
+        "notes": "Other points are trace/vertices - not separate entities but aspects of the whole"
+      },
+      {
+        "element": "transformation",
+        "meaning": "Identity is not fixed - point becomes line becomes circle becomes nothing",
+        "appearancesInBeats": [10, 11, 12, 13, 14],
+        "notes": "Core theme - what we become through connection and movement"
+      }
+    ],
+    "dosAndDonts": {
+      "do": [
+        "Maintain pure geometric vocabulary (point, line, circle)",
+        "Use empty space as active element",
+        "Allow contemplative pacing - silence and stillness matter",
+        "Emphasize transformation moments with visual intensity",
+        "Keep scale ambiguous - could be quantum or cosmic",
+        "Let geometry tell the story - no literal representation needed"
+      ],
+      "dont": [
+        "Add humanizing features to geometric forms",
+        "Clutter the void with unnecessary elements",
+        "Rush the pacing - contemplation is essential",
+        "Use literal/representational imagery",
+        "Explain with text overlays - geometry is the language",
+        "Break the minimal aesthetic with decorative flourishes"
+      ]
+    },
+    "productionVersions": {
+      "version1": {
+        "medium": "AI image generation + post-production animation",
+        "aesthetic": "Cinematic, artistic interpretation, visual surprise",
+        "timeline": "First production (current workflow from Boy Baker)"
+      },
+      "version2": {
+        "medium": "Remotion programmatic animation (React + code)",
+        "aesthetic": "Smooth motion graphics, code-driven consistency",
+        "timeline": "Future - experimental R&D phase"
+      },
+      "version3": {
+        "medium": "Pure mathematical rendering (D3.js/Canvas/WebGL)",
+        "aesthetic": "Logo-inspired geometric purity, precise mathematical transformations",
+        "timeline": "Future - hand-coded precision"
+      },
+      "statement": "Multiple versions of the same story demonstrate intentional medium selection vs defaulting to AI. Each version explores how medium shapes meaning."
+    }
   },
+  "contextDocuments": [
+    {
+      "type": "styleguide",
+      "reference": "data/styleguide.md",
+      "summary": "Visual style template (to be populated with production-specific details)"
+    },
+    {
+      "type": "philosophy",
+      "reference": "data/philosophical-themes.md",
+      "summary": "Six core philosophical themes: paradox of separation/unity, journey as self-discovery, transformation through connection, cyclical existence, meaninglessness creating meaning, time as dimension of movement"
+    },
+    {
+      "type": "production",
+      "reference": "data/production-philosophy.md",
+      "summary": "Multi-version production strategy exploring three mediums (AI generation, Remotion animation, mathematical rendering) as cultural statement against 'AI slop' - intentional craft matters"
+    },
+    {
+      "type": "visualization",
+      "reference": "data/visualization-ideas.md",
+      "summary": "Five visual approaches: 2D plane journey, 3D void with depth, microscopic/cosmic scale, living canvas transformation, abstract geometry in motion"
+    },
+    {
+      "type": "backstory",
+      "reference": "docs/origin-story-pilieros-dilemma.md",
+      "summary": "Origin story: Nick Piliero's existential paradox (creating joy while experiencing depression) + vOz's astrophysics immersion = geometric narrative. Particle-wave duality as fundamental metaphor for none→one→two→three→two→one→none cycle"
+    },
+    {
+      "type": "transcript",
+      "reference": "data/source/transcript-with-meta.md",
+      "summary": "14-chapter structured narrative with beat headers: ZERO, A POINT, DISCOVERY, A LINE, MOVING FORWARD, SEPARATION, GROWTH, CURIOSITY, CONNECTION, TRANSFORMATION, A PATHWAY, THE CIRCLE, THE CYCLE, CONCLUSION/BEGINNING"
+    }
+  ],
   "chapterStyleOverrides": [],
   "beats": [],
   "globalWordIndex": [],

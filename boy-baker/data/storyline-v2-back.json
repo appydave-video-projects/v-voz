@@ -6,18 +6,18 @@
     "totalBeats": 64,
     "generatedAt": "2025-10-07T13:19:35.125Z",
     "generationTechnique": "animated-image",
-    "totalVisualConcepts": 16,
+    "totalVisualConcepts": 34,
     "totalImageVariations": 68,
     "totalAnimations": 68,
     "totalWords": 631,
     "totalDuration": 298.84,
     "whisperModel": "medium",
     "dataSize": 474351,
-    "lastModified": "2025-11-04T00:00:00.000Z",
+    "lastModified": "2025-10-21T00:00:00.000Z",
     "projectPath": "/Users/davidcruwys/dev/clients/voz/projects/boy-baker",
     "hasImages": false,
     "errors": 0,
-    "migrationNotes": "V2 schema migration in progress: Beats 1-11 complete (17.2%). Beat-driven structure with cast list, machine-readable style guide, director-driven visual concept breakdown, and attribute inheritance."
+    "migrationNotes": "V2 schema with cast list, machine-readable style guide, director-driven visual concept breakdown, and attribute inheritance"
   },
   "cast": [
     {
@@ -565,38 +565,6 @@
           "characters": ["baker", "boy"],
           "attributeOverrides": {},
           "purpose": "Physical gesture of help - baker's hand extended, boy's hesitant response, trust forming",
-          "duration": "2.9 seconds"
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "timing": {
-        "start": "00:50.40",
-        "end": "00:53.30",
-        "duration": 2900,
-        "startSeconds": 50.4,
-        "endSeconds": 53.3
-      },
-      "narrative": {
-        "text": "left to live on the streets fending for themselves.",
-        "speaker": "narrator"
-      },
-      "beatLevelDefaults": {
-        "sceneAnchor": "bakery-interior",
-        "ambiance": "Golden light persists, but weight of tragedy lingers in the air",
-        "timeOfDay": "Early morning"
-      },
-      "visualConcepts": [
-        {
-          "conceptNumber": 1,
-          "description": "Boy's hesitant response to baker's extended hand, trust tentatively forming",
-          "shotType": "close",
-          "cameraAngle": "eye-level",
-          "mood": "vulnerable, tentative, beginning of acceptance",
-          "characters": ["baker", "boy"],
-          "attributeOverrides": {},
-          "purpose": "Boy responds to baker's offer - the moment connection solidifies despite the harsh reality narration describes",
           "duration": "2.9 seconds"
         }
       ]

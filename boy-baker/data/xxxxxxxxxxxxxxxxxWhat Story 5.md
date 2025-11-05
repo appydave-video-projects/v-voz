@@ -17,39 +17,3 @@ What Story 5.7 needs: UI to navigate between these 3 concepts within the same be
   So maybe for now, we just go with concept one two and three, et cetera which at the moment means everything is just concept one but maybe we can fake out a concept two in the boy in the Baker story just so that we can see the data
   
 
-  Q2: How should current concept be indicated?
-  - A) Highlighted tab?
-  - B) Progress indicator ("Concept 2 of 3")?
-  - C) Both?
-
-  Q3: Should concept attributes be displayed?
-  - A) Yes, show all (description, setting, mood, characters)?
-  - B) Show summary only (description)?
-  - C) Progressive disclosure (expandable)?
-
-  Q4: How do variations relate to concepts?
-  - A) Each concept has its own variations (show only current concept's variations)?
-  - B) Show all variations with concept grouping?
-
-  Q5: URL behavior when switching concepts?
-  - A) Update URL (/story/boy-baker/1?concept=2)?
-  - B) Keep URL as-is (concept in component state only)?
-
-
-/Users/davidcruwys/dev/clients/supportsignal/app.supportsignal.com.au
-
-
-
-  /Users/davidcruwys/dev/ad/storyline-app
-
-
-
-/Users/davidcruwys/dev/ad/agent-workflow-builder/ad-agent_architecture
-/Users/davidcruwys/dev/ad/agent-workflow-builder/gpt-agents
-
-
-/Users/davidcruwys/dev/ad/appydave-brand
-
-/Users/davidcruwys/dev/js_3rd/motus
-/Users/davidcruwys/dev/clients/voz
-
