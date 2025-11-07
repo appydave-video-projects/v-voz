@@ -30,8 +30,15 @@
       "visualProfile": {
         "build": "Sturdy frame, gently weathered",
         "clothing": "Earth-tone shirt, rolled sleeves, cream flour-dusted apron, simple leather shoes",
-        "colorSignature": ["warm ochre", "dusty brown", "cream", "burnt orange"],
-        "restrictions": ["NEVER depicted with a hat"],
+        "colorSignature": [
+          "warm ochre",
+          "dusty brown",
+          "cream",
+          "burnt orange"
+        ],
+        "restrictions": [
+          "NEVER depicted with a hat"
+        ],
         "bodyLanguage": "Deliberate, still, strong hands; speaks little but listens deeply",
         "symbolism": "Bread as sacrament; represents sanctuary, process, care"
       },
@@ -47,7 +54,11 @@
       "visualProfile": {
         "build": "Underweight, small-framed",
         "clothing": "Oversized dusty blue shirt, worn shoes, later flour-dusted apron",
-        "colorSignature": ["dusty blue", "faded sage", "soft cream (later)"],
+        "colorSignature": [
+          "dusty blue",
+          "faded sage",
+          "soft cream (later)"
+        ],
         "bodyLanguage": "Guarded early on, softens gradually",
         "symbolism": "Sparrow-like — small, unnoticed, capable of rising"
       },
@@ -63,7 +74,10 @@
       "visualProfile": {
         "build": "Varied, physically imposing to the boy",
         "clothing": "Period-appropriate street clothes",
-        "colorSignature": ["darker tones", "muted colors"],
+        "colorSignature": [
+          "darker tones",
+          "muted colors"
+        ],
         "bodyLanguage": "Threatening, aggressive postures"
       },
       "characterArc": "Appear early, flee when confronted by authority"
@@ -74,10 +88,24 @@
     "era": "1930s",
     "setting": "Fictional French village",
     "culturalContext": "Time of hardship and quiet resilience; baker possibly Greek-French heritage",
-    "visualInfluences": ["Studio Ghibli", "90s RPG storybook art", "European illustrated books"],
+    "visualInfluences": [
+      "Studio Ghibli",
+      "90s RPG storybook art",
+      "European illustrated books"
+    ],
     "colorPalette": {
-      "primary": ["soft browns", "warm earth tones", "dusty oranges", "muted greens", "sky blues"],
-      "accents": ["brick red", "faded yellow", "charcoal gray"]
+      "primary": [
+        "soft browns",
+        "warm earth tones",
+        "dusty oranges",
+        "muted greens",
+        "sky blues"
+      ],
+      "accents": [
+        "brick red",
+        "faded yellow",
+        "charcoal gray"
+      ]
     },
     "textureAndLinework": {
       "texture": "Visible hand-drawn texture or watercolor grain",
@@ -153,7 +181,11 @@
       {
         "element": "sparrow",
         "meaning": "Compassionate intelligence, gentle presence, unseen guardianship",
-        "appearancesInBeats": [1, 10, 12],
+        "appearancesInBeats": [
+          1,
+          10,
+          12
+        ],
         "notes": "Symbolic, never intervening"
       }
     ],
@@ -208,7 +240,9 @@
           "shotType": "wide",
           "cameraAngle": "eye-level",
           "mood": "warm, peaceful",
-          "characters": ["baker"],
+          "characters": [
+            "baker"
+          ],
           "attributeOverrides": {},
           "purpose": "Establish the peaceful morning routine before disruption",
           "duration": "2-3 seconds"
@@ -219,7 +253,11 @@
           "shotType": "ots",
           "cameraAngle": "eye-level",
           "mood": "concerned, alert",
-          "characters": ["baker", "boy", "gang"],
+          "characters": [
+            "baker",
+            "boy",
+            "gang"
+          ],
           "attributeOverrides": {
             "ambiance": "Tension builds, shadows lengthen"
           },
@@ -232,7 +270,10 @@
           "shotType": "close",
           "cameraAngle": "low",
           "mood": "chaotic, violent, dark",
-          "characters": ["boy", "gang"],
+          "characters": [
+            "boy",
+            "gang"
+          ],
           "attributeOverrides": {
             "sceneAnchor": "back-alley",
             "ambiance": "Harsh shadows, dust kicked up"
@@ -267,7 +308,11 @@
           "shotType": "medium",
           "cameraAngle": "eye-level",
           "mood": "urgent, defensive, resolute",
-          "characters": ["baker", "gang"],
+          "characters": [
+            "baker",
+            "gang",
+            "boy"
+          ],
           "attributeOverrides": {},
           "purpose": "Show Baker's intervention causing immediate retreat",
           "duration": "2.5 seconds"
@@ -299,7 +344,10 @@
           "shotType": "medium",
           "cameraAngle": "eye-level",
           "mood": "concerned, gentle, protective",
-          "characters": ["baker", "boy"],
+          "characters": [
+            "baker",
+            "boy"
+          ],
           "attributeOverrides": {},
           "purpose": "Show Baker's compassionate response to the boy's injuries",
           "duration": "2.9 seconds"
@@ -331,7 +379,10 @@
           "shotType": "medium",
           "cameraAngle": "eye-level",
           "mood": "warm, compassionate, gentle",
-          "characters": ["baker", "boy"],
+          "characters": [
+            "baker",
+            "boy"
+          ],
           "attributeOverrides": {},
           "purpose": "Show Baker's protective care, establishing their connection",
           "duration": "2 seconds"
@@ -342,7 +393,10 @@
           "shotType": "medium",
           "cameraAngle": "eye-level",
           "mood": "warm, safe, protective",
-          "characters": ["baker", "boy"],
+          "characters": [
+            "baker",
+            "boy"
+          ],
           "attributeOverrides": {
             "sceneAnchor": "bakery-interior",
             "ambiance": "Threshold between street and sanctuary, soft bakery light ahead"
@@ -377,7 +431,10 @@
           "shotType": "medium",
           "cameraAngle": "eye-level",
           "mood": "gentle, questioning, caring",
-          "characters": ["baker", "boy"],
+          "characters": [
+            "baker",
+            "boy"
+          ],
           "attributeOverrides": {},
           "purpose": "Setup for dialogue, Baker seeking to understand boy's situation",
           "duration": "2.5 seconds"
@@ -409,7 +466,10 @@
           "shotType": "ots",
           "cameraAngle": "eye-level",
           "mood": "gentle but serious, questioning, vulnerable",
-          "characters": ["baker", "boy"],
+          "characters": [
+            "baker",
+            "boy"
+          ],
           "attributeOverrides": {},
           "purpose": "Capture boy's emotional reaction to the baker's difficult question about his parents",
           "duration": "1 second"
@@ -441,7 +501,9 @@
           "shotType": "close",
           "cameraAngle": "eye-level",
           "mood": "sad, vulnerable, isolated, meek",
-          "characters": ["boy"],
+          "characters": [
+            "boy"
+          ],
           "attributeOverrides": {},
           "purpose": "Focus entirely on boy's emotional state - downcast eyes, bruised face, preparing to admit he's alone",
           "duration": "1.6 seconds"
@@ -473,7 +535,10 @@
           "shotType": "medium",
           "cameraAngle": "eye-level",
           "mood": "sorrowful, tender, empathetic, defeated",
-          "characters": ["baker", "boy"],
+          "characters": [
+            "baker",
+            "boy"
+          ],
           "attributeOverrides": {},
           "purpose": "Capture the emotional exchange - boy's painful admission and baker's compassionate response",
           "duration": "2.8 seconds"
@@ -505,7 +570,10 @@
           "shotType": "close",
           "cameraAngle": "eye-level",
           "mood": "empathetic, sorrowful, realizing",
-          "characters": ["baker", "boy"],
+          "characters": [
+            "baker",
+            "boy"
+          ],
           "attributeOverrides": {},
           "purpose": "Baker perceives the boy's traumatic past in his eyes",
           "duration": "1.5 seconds"
@@ -551,7 +619,10 @@
           "shotType": "medium",
           "cameraAngle": "eye-level",
           "mood": "contemplative, compassionate, resolute",
-          "characters": ["baker", "boy"],
+          "characters": [
+            "baker",
+            "boy"
+          ],
           "attributeOverrides": {},
           "purpose": "Baker's internal realization - this boy represents countless abandoned children",
           "duration": "3 seconds"
@@ -562,7 +633,10 @@
           "shotType": "close",
           "cameraAngle": "eye-level",
           "mood": "hopeful, tender, tentative",
-          "characters": ["baker", "boy"],
+          "characters": [
+            "baker",
+            "boy"
+          ],
           "attributeOverrides": {},
           "purpose": "Physical gesture of help - baker's hand extended, boy's hesitant response, trust forming",
           "duration": "2.9 seconds"
@@ -594,7 +668,10 @@
           "shotType": "close",
           "cameraAngle": "eye-level",
           "mood": "vulnerable, tentative, beginning of acceptance",
-          "characters": ["baker", "boy"],
+          "characters": [
+            "baker",
+            "boy"
+          ],
           "attributeOverrides": {},
           "purpose": "Boy responds to baker's offer - the moment connection solidifies despite the harsh reality narration describes",
           "duration": "2.9 seconds"
