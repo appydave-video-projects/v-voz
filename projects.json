@@ -1,0 +1,61 @@
+{
+  "config": {
+    "brand": "voz",
+    "local_base": "/Users/davidcruwys/dev/video-projects/v-voz",
+    "ssd_base": "/Volumes/T7/voz",
+    "last_updated": "2025-11-10T11:46:12Z",
+    "note": "Auto-generated manifest. Regenerate with: vat manifest",
+    "disk_usage": {
+      "local": {
+        "total_bytes": 486421804,
+        "total_mb": 463.89,
+        "total_gb": 0.45
+      },
+      "ssd": {
+        "total_bytes": 0,
+        "total_mb": 0.0,
+        "total_gb": 0.0
+      }
+    }
+  },
+  "projects": [
+    {
+      "id": "boy-baker",
+      "type": "storyline",
+      "storage": {
+        "ssd": {
+          "exists": false,
+          "path": null
+        },
+        "s3": {
+          "exists": false
+        },
+        "local": {
+          "exists": true,
+          "structure": "flat",
+          "has_heavy_files": false,
+          "has_light_files": true
+        }
+      }
+    },
+    {
+      "id": "the-point",
+      "type": "storyline",
+      "storage": {
+        "ssd": {
+          "exists": false,
+          "path": null
+        },
+        "s3": {
+          "exists": false
+        },
+        "local": {
+          "exists": true,
+          "structure": "flat",
+          "has_heavy_files": false,
+          "has_light_files": true
+        }
+      }
+    }
+  ]
+}
